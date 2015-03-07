@@ -1,7 +1,7 @@
  DO WHAT THE GOAT YOU WANT TO PUBLIC LICENSE 
                     Version 1, Feb 2015 
 
- Copyright (C) 2015 NikV <nikv@goatherder.net> 
+ Copyright (C) 2015 NikV (Nikhil Vimal)
 
  Everyone is permitted to copy and distribute verbatim or modified 
  copies of this license document, and changing it is allowed as long 
