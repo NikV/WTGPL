@@ -11,3 +11,4 @@
    TERMS AND CONDITIONS FOR COPYING, DISTRIBUTION AND MODIFICATION 
 
   0. You just DO WHAT THE GOAT YOU WANT TO.
+  1. Have goat somewhere in your code!
